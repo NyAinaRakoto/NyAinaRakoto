@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NyAinaRakoto
+- 👋 Hi, I’m NyAina
 - 👀 I’m a Ph.D. student in Geography at Oklahoma State University
-- 🌱 I’m using remote sensing, specifically imaging spectroscopy, to study invasive plants
+- 🌱 I’m using remote sensing, specifically imaging spectroscopy, to answer ecological questions
 - ✨ I’m always open to collaborations
 - 📫 Reach me at ny_aina.rakotoarivony@okstate.edu
 
