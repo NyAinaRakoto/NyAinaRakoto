@@ -1,4 +1,4 @@
-- 👋 Hi, I’m NyAina
+- 👋 Hi, I’m Ny Aina
 - 👀 I’m a Ph.D. student in Geography at Oklahoma State University
 - 🌱 I’m using remote sensing, specifically imaging spectroscopy, to answer ecological questions
 - ✨ I’m always open to collaborations
