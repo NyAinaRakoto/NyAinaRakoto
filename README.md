@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ny Aina
-- 👀 I’m a Ph.D. student in Geography at Oklahoma State University
+- 👀 I’m currently a Postdoctoral Researcher in the Department of Geography at Oklahoma State University
 - 🌱 I’m using remote sensing, specifically imaging spectroscopy, to answer ecological questions
 - ✨ I’m always open to collaborations
 - 📫 Reach me at ny_aina.rakotoarivony@okstate.edu
